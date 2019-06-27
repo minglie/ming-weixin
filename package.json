@@ -1,0 +1,25 @@
+{
+  "name": "ming-weixin",
+  "version": "1.0.0",
+  "description": "微信服务API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minglie/ming-weixin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minglie/ming-weixin/issues"
+  },
+  "homepage": "https://github.com/minglie/ming-weixin#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "ming_node": "^0.1.5",
+    "urlencode": "^1.1.0"
+  }
+}
